@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jaehle06/jaehle06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Growth Manager | Analytics Engineer Aspirant
 
 데이터 기반의 마케팅, 사용자 행동 분석, 그리고 비즈니스 인사이트를 이끌어내는 경험을 바탕으로 Analytics Engineer로의 전환을 목표로 합니다. 
