@@ -27,4 +27,5 @@
   - GitHub Actions를 통한 서버리스 데이터 파이프라인 구축 및 스케줄링
   - 광고 채널(구글, 메타 등), MMP(Airbridge, Appsflyer), GA4 데이터를 통합하여 정형화된 데이터 저장
 
+- **DBT project**
 ---
