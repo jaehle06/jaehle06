@@ -12,9 +12,9 @@
 
 ## 🔧 Skills & Tools
 
-- **Data Engineering**: Python (Pandas, Numpy), SQL, AWS (S3, RDS, Lambda), Airflow, DBT
-- **Data Analysis**: Tableau, Looker Studio, BigQuery
-- **Marketing Analytics**: GA4, Amplitude, Mixpanel, Appsflyer, Braze
+- **Marketing Data Engineering**: Python (Pandas, Numpy), SQL, Airflow, DBT
+- **Data Analysis**: Tableau, Looker Studio, Python
+- **Marketing Analytics**: GA4, Amplitude, Mixpanel, Appsflyer
 - **Data Visualization**: Tableau, Looker Studio, Plotly
 - **Cloud Platforms**: AWS, GCP
 
